@@ -78,13 +78,18 @@ main{
     display: flex;
     justify-content: space-between;
     margin-top: 10px;
-    text-align: left;
+    text-align: center;
     color: #fff;
 }
 
 .weather-forecast-date {
     font-size: 16px;
     opacity: 0.5;
+}
+
+.weather-forecast-icon {
+    width: 100%;
+    text-align: center;
 }
 
 .weather-forecast-temperature-min {
