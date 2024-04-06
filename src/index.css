@@ -5,7 +5,8 @@ body{
     color: aliceblue;
 }
 a{
-    color:rgb(177, 100, 123) ;
+    color: #01CABB;
+    font-size: 15px;
 }
 .container{
     background: url(/pic/tom-barrett-hgGplX3PFBg-unsplash.jpg);
@@ -53,7 +54,7 @@ main{
 
 }
 .weather-details strong{
-    color:#f65282 ;
+    color:#01CABB ;
 }
 .weather-data{
     display: flex;
